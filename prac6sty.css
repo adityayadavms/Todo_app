@@ -78,7 +78,7 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url("/Practice Project 6/images/unchecked.jpg");
+    background-image: url("./images/unchecked.jpg");
     background-size:cover;
     background-position: center;
     top: 12px;
@@ -91,7 +91,7 @@ ul li.checked{
 }
 
 ul li.checked::before{
-    background-image: url("/Practice Project 6/images/checked.jpg");
+    background-image: url("./images/checked.jpg");
 }
 
 ul li span{
